@@ -1,0 +1,17 @@
+.card {
+   border-style: double;
+   border-width: 2px;
+   width: 500px;
+   margin: 50px 400px;
+   padding: 20px 20px 20px 20px;
+}
+
+.carousal {
+   width: 800px;
+   margin-left: 250px;
+}
+
+.footer {
+   margin: 30px 20px 20px 20px;
+   height: 80px;
+}
